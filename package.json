@@ -7,5 +7,6 @@
     "test": "node test.js"
   },
   "author": "nic forzen",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/nicforzen/rudolph.color"
 }
