@@ -1,0 +1,11 @@
+{
+  "name": "rudolph.color",
+  "version": "0.0.3",
+  "description": "A library for reusable Color objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "nic forzen",
+  "license": "ISC"
+}
